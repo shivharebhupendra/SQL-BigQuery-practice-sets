@@ -76,6 +76,15 @@ This is a personal practice repository. Suggestions, optimizations, and alternat
 
 ## 📬 Connect With Me
 
+### 👨‍💻 Author
+Bhupendra Shivhare
+
+Aspiring Data Scientist | Deep Learning Enthusiast
+
+- LinkedIn: www.linkedin.com/in/bhupendra-shivhare-a8a02a25b
+
+- 📧 Email: shivharebhupendra@gmail.com
+
 If you are practicing SQL or preparing for Data/Data Engineering roles, feel free to connect.
 
 ⭐ If you find this repository useful, consider giving it a **star**!
